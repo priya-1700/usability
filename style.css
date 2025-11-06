@@ -122,3 +122,15 @@ ul{
 .header-right img{
     width: 100%;
 }
+/* company section  */
+.company-section h4{
+  text-align: center;
+  color: var(--accent-color);
+}
+.logos{
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.logos img{
+   height: 46px;
+}
